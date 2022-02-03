@@ -16,9 +16,9 @@
 
 |순번|Folder Name|Title|제출일|비고|
 |:--------:|:--------:|:--------:|:--------:|:--------:|
-|1|[exploration_01](https://nbviewer.org/github/YAGI0423/aiffel_exploration/blob/master/exploration_01/EX01_v5_1.ipynb)|1. 인공지능과 가위바위보 하기|2021-09-27|-|
-|2|[exploration_02](https://nbviewer.org/github/YAGI0423/aiffel_exploration/blob/master/exploration_02/EX02_v2_1.ipynb)|2. Iris의 세 가지 품종, 분류해볼 수 있겠어요?|2021-10-04|-|
-|3|[exploration_03](https://nbviewer.org/github/YAGI0423/aiffel_exploration/blob/master/exploration_03/EX03_v2_1.ipynb)|3. 카메라 스티커앱 만들기 첫걸음|2021-10-07|-|
+|1|[exploration_01](https://github.com/mrsys/Exploration/blob/master/EXPLORATION_01.ipynb)|1. 인공지능과 가위바위보 하기|2021-09-27|-|
+|2|[exploration_02](https://github.com/mrsys/Exploration/blob/master/EXPLORATION_02.ipynb)|2. Iris의 세 가지 품종, 분류해볼 수 있겠어요?|2021-10-04|-|
+|3|[exploration_03](https://github.com/mrsys/Exploration/blob/master/EXPLORATION_03.ipynb)|3. 카메라 스티커앱 만들기 첫걸음|2021-10-07|-|
 |4|[exploration_04](https://nbviewer.org/github/YAGI0423/aiffel_exploration/blob/master/exploration_04/EX04_v3_2.ipynb)|4. 작사가 인공지능 만들기|2021-10-12|-|
 |5|[exploration_05](https://nbviewer.org/github/YAGI0423/aiffel_exploration/blob/master/exploration_05/EX05_v3_1.ipynb)|5. 나랑 닮은 연예인은 누구?|2021-10-14|-|
 |6|[exploration_06](https://nbviewer.org/github/YAGI0423/aiffel_exploration/blob/master/exploration_06/EX06_v3_1.ipynb)|6. 나의 첫 번째 캐글 경진대회, 무작정 따라해보기|2021-10-19|-|
