@@ -1,7 +1,7 @@
 ### 이 저장소(Repository)는 「Aiffel Exploration 학습 과정」에 대한 자료를 다루고 있습니다.
 
 ***
-작성자: MRSYS<br>
+작성자: 송영석<br>
 
 최종 수정일: 2022-02-03
 
